@@ -5,3 +5,5 @@ I don't have many true friends to help me. Sure, I have “IRC, Facebook and twi
 
 If you understand and like my opensource work, please spread my curriculum for your firm.
 I work for 3500 USD per month.
+
+Thank you.
