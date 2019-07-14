@@ -1,7 +1,7 @@
 # curriculum_cooler
 My simple CV for new opportunities.
 
-https://github.com/CoolerVoid/curriculum_cooler/blob/master/CoolerVoid2019_CV.pdf
+https://github.com/CoolerVoid/curriculum_cooler/blob/master/CoolerVoid2019_CV(1).pdf
 
 I don't have a lot of true friends to help me. Sure, I have “IRC, Facebook and twitter friends” and people who might like me, but not a lot of people who really know me or offer to job to me.
 
